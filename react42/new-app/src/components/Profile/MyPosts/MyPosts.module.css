@@ -1,0 +1,35 @@
+.textarea {
+  resize: none;
+  margin-left: 10px;
+  width: 400px;
+  height: 75px;
+  border: none;
+  outline: none;
+  font-size: 15px;
+  padding-left: 5px;
+  padding-top: 5px;
+}
+
+.textarea:active {
+  border: none;
+}
+
+.button {
+  margin-bottom: 10px;
+  margin-left: 10px;
+  font-size: 15px;
+  font-weight: 400;
+  padding: 4px 10px;
+  border: none;
+  background-color: rgb(218, 80, 100);
+  color: white;
+}
+
+.button:active {
+  background-color: brown;
+}
+
+.myPosts {
+  margin-bottom: 10px;
+  margin-left: 10px;
+}
